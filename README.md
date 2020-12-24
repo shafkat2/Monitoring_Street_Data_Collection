@@ -19,10 +19,10 @@
 
 #### Sample Pictures
     
-![Picture 1](pictures/Total_Collected_Pics.png)
+![Picture 1](./pictures/Total_Collected_Pics.png)
 
 
-![Picture 2](pictures/Zoomed_view.png)
+![Picture 2](./pictures/Zoomed_view.png)
 
 
 
