@@ -13,9 +13,9 @@
 
 
 
-* User upload data to the cloud
-* Cache data does ETL on the collected Data
-* Map and simple analytic producs Map where the co-ordinates are show of the collected data points
+* User uploads data to the cloud
+* Cache data, does ETL on the collected Data
+* Map and simple analytic, produces Map where the co-ordinates are shown of the collected data points
 
 #### Sample Pictures
     
